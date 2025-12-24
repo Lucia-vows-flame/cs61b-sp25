@@ -10,23 +10,23 @@ public class Arithmetic {
     /**
      * Computes product of two ints.
      * 
-     * @param a Value 1
-     * @param b Value 2
-     * @return Product of a and b
+     * @param x Value 1
+     * @param y Value 2
+     * @return Product of x and y
      */
-    public static int product(int a, int b) {
-        return a * b;
+    public static int product(int x, int y) {
+        return x * y;
     }
 
     /**
      * Computes sum of two ints (incorrectly).
      * 
-     * @param a Value 1
-     * @param b Value 2
-     * @return Sum of a and b
+     * @param x Value 1
+     * @param y Value 2
+     * @return Sum of x and y
      */
-    public static int sum(int a, int b) {
-        return a + b;
+    public static int sum(int x, int y) {
+        return x + y;
     }
 
     public static void main(String[] args) {

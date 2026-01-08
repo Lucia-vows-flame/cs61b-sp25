@@ -2,10 +2,10 @@
  * Exercise sourced from Practice-It by the University of Washington.
  * Original problems available at: https://practiceit.cs.washington.edu/
  *
- * @author Erik Kizior
+ * @author Geoffrey Xu
  */
 
-// TODO: What is the output of the following program?
+// What is the output of the following program?
 public class NumberTotal {
     public static void main(String[] args) {
         int total = 25;
@@ -16,8 +16,13 @@ public class NumberTotal {
     }
 }
 
-/* Before running the code, type your answer below.
-
-TODO: Write output here
-
-Then, click the green play button to check your work. */
+/*
+ * Before running the code, type your answer below.
+ * 
+ * total 24 1
+ * total 22 2
+ * total 19 3
+ * total 15 4
+ * total 10 5
+ * Then, click the green play button to check your work.
+ */
